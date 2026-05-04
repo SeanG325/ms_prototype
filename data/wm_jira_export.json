@@ -1,0 +1,133 @@
+[
+  {
+    "ticket_id": "WM-AI-1000",
+    "summary": "GenAI Advisor Co-Pilot",
+    "description": "LLM-powered assistant for financial advisors to draft client communications and surface portfolio insights",
+    "assignee": "person_009",
+    "status": "In Progress",
+    "priority": "P0",
+    "created": "2025-12-21T02:07:05.518362",
+    "last_updated": "2026-05-03T02:07:05.518479",
+    "story_points_planned": 80,
+    "story_points_completed": 78,
+    "labels": [
+      "genai",
+      "production",
+      "scaling"
+    ],
+    "epic": "GenAI Advisor Co-Pilot",
+    "comments_count": 64,
+    "owner_notes": "Now production with 4,200 advisors using daily; advisor productivity gain measured at 28%, exceeding 20% target. Sponsor pushing to scale to remaining 8,000 advisors next quarter -- need additional API budget approved.",
+    "budget_approved_usd": 3500000,
+    "budget_spent_usd": 2450000
+  },
+  {
+    "ticket_id": "WM-AI-1001",
+    "summary": "Client Sentiment Analytics",
+    "description": "NLP on advisor call transcripts to detect at-risk client relationships",
+    "assignee": "person_010",
+    "status": "In Progress",
+    "priority": "P1",
+    "created": "2026-01-01T02:07:05.518491",
+    "last_updated": "2026-04-28T02:07:05.518493",
+    "story_points_planned": 50,
+    "story_points_completed": 32,
+    "labels": [
+      "nlp",
+      "pilot"
+    ],
+    "epic": "Client Sentiment Analytics",
+    "comments_count": 22,
+    "owner_notes": "Pilot scope: 200 advisors across two regions. Validator review re-opened after Q1 model update changed sentiment-classification thresholds.",
+    "budget_approved_usd": 1200000,
+    "budget_spent_usd": 720000
+  },
+  {
+    "ticket_id": "WM-AI-1002",
+    "summary": "Personalized Research Summarization",
+    "description": "Auto-summarize equity research reports tailored to each client's holdings",
+    "assignee": "person_011",
+    "status": "In Review",
+    "priority": "P1",
+    "created": "2025-11-30T02:07:05.518499",
+    "last_updated": "2026-04-30T02:07:05.518500",
+    "story_points_planned": 40,
+    "story_points_completed": 38,
+    "labels": [
+      "genai",
+      "pilot"
+    ],
+    "epic": "Personalized Research Summarization",
+    "comments_count": 31,
+    "owner_notes": "User feedback strong; pilot extending to additional research desks. No blockers.",
+    "budget_approved_usd": 900000,
+    "budget_spent_usd": 680000
+  },
+  {
+    "ticket_id": "WM-AI-1003",
+    "summary": "Onboarding Document Intelligence",
+    "description": "OCR + LLM extraction for KYC/onboarding paperwork",
+    "assignee": "person_012",
+    "status": "Blocked",
+    "priority": "P0",
+    "created": "2025-12-04T02:07:05.518508",
+    "last_updated": "2026-04-22T02:07:05.518512",
+    "story_points_planned": 60,
+    "story_points_completed": 55,
+    "labels": [
+      "genai",
+      "production",
+      "blocked-approval"
+    ],
+    "epic": "Onboarding Document Intelligence",
+    "comments_count": 89,
+    "owner_notes": "Build is functionally complete. Trying to reuse the Co-Pilot's already-approved LLM stack to shortcut model-risk review, but Risk has not yet ruled on whether the reuse argument is acceptable. Sitting in queue 62 days. Owner has escalated twice with no response.",
+    "budget_approved_usd": 1800000,
+    "budget_spent_usd": 1650000
+  },
+  {
+    "ticket_id": "WM-AI-1004",
+    "summary": "Cross-Border Tax AI",
+    "description": "LLM agent for cross-border client tax-lot optimization, jointly used by WM private bankers and IB structured products desk",
+    "assignee": "person_009",
+    "status": "In Progress",
+    "priority": "P1",
+    "created": "2025-12-07T02:07:05.518515",
+    "last_updated": "2026-04-26T02:07:05.518516",
+    "story_points_planned": 90,
+    "story_points_completed": 48,
+    "labels": [
+      "genai",
+      "cross-bu",
+      "tax",
+      "wm-ib-joint"
+    ],
+    "epic": "Cross-Border Tax AI",
+    "comments_count": 142,
+    "owner_notes": "Joint WM + IB initiative for cross-border client tax-lot optimization. Governance friction: WM wants UK private-banker workflow; IB wants integration with structured-products desk. Legal review held pending alignment between the two BU heads on data-residency boundary. 142 comments on the ticket reflect this.",
+    "budget_approved_usd": 2400000,
+    "budget_spent_usd": 1350000
+  },
+  {
+    "ticket_id": "WM-AI-1005",
+    "summary": "Advisor Compliance Co-Pilot",
+    "description": "LLM-assisted pre-trade compliance checks for advisor-initiated transactions",
+    "assignee": "person_011",
+    "status": "In Review",
+    "priority": "P1",
+    "created": "2025-12-18T02:07:05.518519",
+    "last_updated": "2026-05-01T02:07:05.518521",
+    "story_points_planned": 55,
+    "story_points_completed": 50,
+    "labels": [
+      "genai",
+      "compliance",
+      "pilot-to-scale"
+    ],
+    "epic": "Advisor Compliance Co-Pilot",
+    "comments_count": 38,
+    "owner_notes": "Pilot with 150 advisors hit 94% of accuracy target on pre-trade compliance flagging. Compliance team comfortable -- moving into production rollout for Northeast region next month, then full WM by Q4.",
+    "budget_approved_usd": 1400000,
+    "budget_spent_usd": 860000
+  }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "initiative_id": "WM-AI-1000",
+    "approval_type": "validator",
+    "approver": "person_007 (Model Risk)",
+    "status": "approved",
+    "submitted_date": "2026-04-08T02:07:05.520744",
+    "decision_date": "2026-04-16T02:07:05.520748",
+    "notes": ""
+  },
+  {
+    "initiative_id": "WM-AI-1000",
+    "approval_type": "senior_sponsor",
+    "approver": "person_001 (Head of Wealth Management Technology)",
+    "status": "approved",
+    "submitted_date": "2026-04-21T02:07:05.520776",
+    "decision_date": "2026-04-22T02:07:05.520778",
+    "notes": ""
+  },
+  {
+    "initiative_id": "WM-AI-1001",
+    "approval_type": "validator",
+    "approver": "person_005 (Risk)",
+    "status": "pending",
+    "submitted_date": "2026-04-16T02:07:05.520781",
+    "decision_date": null,
+    "notes": "In review queue."
+  },
+  {
+    "initiative_id": "WM-AI-1002",
+    "approval_type": "validator",
+    "approver": "person_006 (Compliance)",
+    "status": "approved",
+    "submitted_date": "2026-04-17T02:07:05.520788",
+    "decision_date": "2026-04-25T02:07:05.520789",
+    "notes": ""
+  },
+  {
+    "initiative_id": "WM-AI-1002",
+    "approval_type": "senior_sponsor",
+    "approver": "person_001 (Head of Wealth Management Technology)",
+    "status": "approved",
+    "submitted_date": "2026-04-27T02:07:05.520792",
+    "decision_date": "2026-04-30T02:07:05.520793",
+    "notes": ""
+  },
+  {
+    "initiative_id": "WM-AI-1003",
+    "approval_type": "validator",
+    "approver": "person_005 (Risk)",
+    "status": "pending",
+    "submitted_date": "2026-03-03T02:07:05.520796",
+    "decision_date": null,
+    "notes": "Awaiting updated model documentation from owner. Multiple follow-ups sent; no response."
+  },
+  {
+    "initiative_id": "IB-AI-1000",
+    "approval_type": "validator",
+    "approver": "person_005 (Risk)",
+    "status": "pending",
+    "submitted_date": "2026-03-20T02:07:05.520800",
+    "decision_date": null,
+    "notes": "Backtest results disputed by trading desk; need full re-run on Q4 2025 data with revised methodology."
+  },
+  {
+    "initiative_id": "IB-AI-1001",
+    "approval_type": "validator",
+    "approver": "person_006 (Compliance)",
+    "status": "approved",
+    "submitted_date": "2026-04-21T02:07:05.520835",
+    "decision_date": "2026-04-28T02:07:05.520837",
+    "notes": ""
+  },
+  {
+    "initiative_id": "IB-AI-1001",
+    "approval_type": "senior_sponsor",
+    "approver": "person_002 (Head of Investment Bank Technology)",
+    "status": "pending",
+    "submitted_date": "2026-05-02T02:07:05.520842",
+    "decision_date": null,
+    "notes": "In sponsor's review queue"
+  },
+  {
+    "initiative_id": "IB-AI-1002",
+    "approval_type": "validator",
+    "approver": "person_007 (Model Risk)",
+    "status": "approved",
+    "submitted_date": "2026-04-16T02:07:05.520981",
+    "decision_date": "2026-04-23T02:07:05.520984",
+    "notes": ""
+  },
+  {
+    "initiative_id": "IB-AI-1002",
+    "approval_type": "senior_sponsor",
+    "approver": "person_002 (Head of Investment Bank Technology)",
+    "status": "approved",
+    "submitted_date": "2026-04-27T02:07:05.520990",
+    "decision_date": "2026-04-29T02:07:05.520991",
+    "notes": ""
+  },
+  {
+    "initiative_id": "IB-AI-1003",
+    "approval_type": "validator",
+    "approver": "person_005 (Risk)",
+    "status": "pending",
+    "submitted_date": "2026-04-06T02:07:05.520994",
+    "decision_date": null,
+    "notes": "In review queue."
+  },
+  {
+    "initiative_id": "AM-AI-1000",
+    "approval_type": "validator",
+    "approver": "person_005 (Risk)",
+    "status": "not_submitted",
+    "submitted_date": "2026-05-02T02:07:05.520999",
+    "decision_date": null,
+    "notes": "Submission incomplete -- waiting on owner to provide model card."
+  },
+  {
+    "initiative_id": "AM-AI-1001",
+    "approval_type": "validator",
+    "approver": "person_007 (Model Risk)",
+    "status": "approved",
+    "submitted_date": "2026-04-17T02:07:05.521002",
+    "decision_date": "2026-04-20T02:07:05.521003",
+    "notes": ""
+  },
+  {
+    "initiative_id": "AM-AI-1001",
+    "approval_type": "senior_sponsor",
+    "approver": "person_003 (Head of Asset Management Technology)",
+    "status": "approved",
+    "submitted_date": "2026-04-25T02:07:05.521017",
+    "decision_date": "2026-04-26T02:07:05.521019",
+    "notes": ""
+  },
+  {
+    "initiative_id": "AM-AI-1002",
+    "approval_type": "validator",
+    "approver": "person_008 (Legal)",
+    "status": "approved",
+    "submitted_date": "2026-04-23T02:07:05.521022",
+    "decision_date": "2026-04-27T02:07:05.521023",
+    "notes": ""
+  },
+  {
+    "initiative_id": "AM-AI-1002",
+    "approval_type": "senior_sponsor",
+    "approver": "person_003 (Head of Asset Management Technology)",
+    "status": "approved",
+    "submitted_date": "2026-05-01T02:07:05.521026",
+    "decision_date": "2026-05-02T02:07:05.521027",
+    "notes": ""
+  },
+  {
+    "initiative_id": "GF-AI-1000",
+    "approval_type": "validator",
+    "approver": "person_005 (Risk)",
+    "status": "pending",
+    "submitted_date": "2026-04-12T02:07:05.521030",
+    "decision_date": null,
+    "notes": "Need clarification on data lineage and prompt-injection mitigations before proceeding."
+  },
+  {
+    "initiative_id": "GF-AI-1001",
+    "approval_type": "validator",
+    "approver": "person_008 (Legal)",
+    "status": "approved",
+    "submitted_date": "2026-04-22T02:07:05.521033",
+    "decision_date": "2026-04-29T02:07:05.521033",
+    "notes": ""
+  },
+  {
+    "initiative_id": "GF-AI-1001",
+    "approval_type": "senior_sponsor",
+    "approver": "person_004 (Head of Group Functions Technology)",
+    "status": "pending",
+    "submitted_date": "2026-04-28T02:07:05.521037",
+    "decision_date": null,
+    "notes": "In sponsor's review queue"
+  },
+  {
+    "initiative_id": "GF-AI-1002",
+    "approval_type": "validator",
+    "approver": "person_006 (Compliance)",
+    "status": "approved",
+    "submitted_date": "2026-04-15T02:07:05.521039",
+    "decision_date": "2026-04-18T02:07:05.521040",
+    "notes": ""
+  },
+  {
+    "initiative_id": "GF-AI-1002",
+    "approval_type": "senior_sponsor",
+    "approver": "person_004 (Head of Group Functions Technology)",
+    "status": "approved",
+    "submitted_date": "2026-04-22T02:07:05.521043",
+    "decision_date": "2026-04-25T02:07:05.521044",
+    "notes": ""
+  },
+  {
+    "initiative_id": "IB-AI-1004",
+    "approval_type": "validator",
+    "approver": "person_007 (Model Risk)",
+    "status": "approved",
+    "submitted_date": "2026-04-22T02:07:05.521046",
+    "decision_date": "2026-04-26T02:07:05.521047",
+    "notes": ""
+  },
+  {
+    "initiative_id": "IB-AI-1004",
+    "approval_type": "senior_sponsor",
+    "approver": "person_002 (Head of Investment Bank Technology)",
+    "status": "approved",
+    "submitted_date": "2026-04-28T02:07:05.521050",
+    "decision_date": "2026-05-01T02:07:05.521050",
+    "notes": ""
+  },
+  {
+    "initiative_id": "AM-AI-1003",
+    "approval_type": "validator",
+    "approver": "person_008 (Legal)",
+    "status": "pending",
+    "submitted_date": "2026-04-15T02:07:05.521053",
+    "decision_date": null,
+    "notes": "EU SFDR Level 2 alignment review in progress with Legal -- regulatory deadline limits flexibility."
+  },
+  {
+    "initiative_id": "GF-AI-1003",
+    "approval_type": "validator",
+    "approver": "person_007 (Model Risk)",
+    "status": "not_submitted",
+    "submitted_date": "2026-04-28T02:07:05.521056",
+    "decision_date": null,
+    "notes": "No active owner contact; previous owner departed firm. Initiative needs re-staffing before review can proceed."
+  },
+  {
+    "initiative_id": "WM-AI-1004",
+    "approval_type": "validator",
+    "approver": "person_008 (Legal)",
+    "status": "pending",
+    "submitted_date": "2026-04-03T02:07:05.521058",
+    "decision_date": null,
+    "notes": "Joint WM + IB sponsorship -- review held pending alignment between the two BU heads on data-residency boundary."
+  },
+  {
+    "initiative_id": "IB-AI-1005",
+    "approval_type": "validator",
+    "approver": "person_007 (Model Risk)",
+    "status": "approved",
+    "submitted_date": "2026-04-06T02:07:05.521450",
+    "decision_date": "2026-04-12T02:07:05.521453",
+    "notes": ""
+  },
+  {
+    "initiative_id": "IB-AI-1005",
+    "approval_type": "senior_sponsor",
+    "approver": "person_002 (Head of Investment Bank Technology)",
+    "status": "pending",
+    "submitted_date": "2026-05-01T02:07:05.521462",
+    "decision_date": null,
+    "notes": "In sponsor's review queue"
+  },
+  {
+    "initiative_id": "WM-AI-1005",
+    "approval_type": "validator",
+    "approver": "person_006 (Compliance)",
+    "status": "approved",
+    "submitted_date": "2026-04-17T02:07:05.521468",
+    "decision_date": "2026-04-23T02:07:05.521469",
+    "notes": ""
+  },
+  {
+    "initiative_id": "WM-AI-1005",
+    "approval_type": "senior_sponsor",
+    "approver": "person_001 (Head of Wealth Management Technology)",
+    "status": "approved",
+    "submitted_date": "2026-04-26T02:07:05.521473",
+    "decision_date": "2026-04-29T02:07:05.521474",
+    "notes": ""
+  },
+  {
+    "initiative_id": "AM-AI-1004",
+    "approval_type": "validator",
+    "approver": "person_006 (Compliance)",
+    "status": "approved",
+    "submitted_date": "2026-04-16T02:07:05.521477",
+    "decision_date": "2026-04-21T02:07:05.521478",
+    "notes": ""
+  },
+  {
+    "initiative_id": "AM-AI-1004",
+    "approval_type": "senior_sponsor",
+    "approver": "person_003 (Head of Asset Management Technology)",
+    "status": "approved",
+    "submitted_date": "2026-04-29T02:07:05.521481",
+    "decision_date": "2026-04-30T02:07:05.521482",
+    "notes": ""
+  },
+  {
+    "initiative_id": "GF-AI-1004",
+    "approval_type": "validator",
+    "approver": "person_008 (Legal)",
+    "status": "approved",
+    "submitted_date": "2026-04-06T02:07:05.521485",
+    "decision_date": "2026-04-10T02:07:05.521486",
+    "notes": ""
+  },
+  {
+    "initiative_id": "GF-AI-1004",
+    "approval_type": "senior_sponsor",
+    "approver": "person_004 (Head of Group Functions Technology)",
+    "status": "approved",
+    "submitted_date": "2026-04-14T02:07:05.521489",
+    "decision_date": "2026-04-17T02:07:05.521490",
+    "notes": ""
+  }
+]
