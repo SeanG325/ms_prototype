@@ -179,7 +179,7 @@ with col_h1:
     st.markdown(html(f"""
         <div style='display:flex; align-items:center; gap:12px; margin-bottom:4px;'>
             <div style='background:{MS_BLUE}; color:white; padding:6px 12px; border-radius:4px; font-weight:700; letter-spacing:0.5px; font-size:13px;'>
-                MORGAN STANLEY
+                DEMO
             </div>
             <div style='color:#666; font-size:13px;'>Technology COO • Transformation Team</div>
         </div>
@@ -2021,7 +2021,7 @@ st.markdown("---")
 st.markdown(
     html(f"""
     <div style='text-align:center; color:#999; font-size:12px; padding:20px 0;'>
-        Prototype for <strong>Morgan Stanley</strong> · Technology COO Transformation Team<br>
+        Prototype · Technology COO Transformation Team<br>
         Built by Sean Guan · All data shown is simulated for demonstration purposes
     </div>
     """),
