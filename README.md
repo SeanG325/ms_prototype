@@ -1,6 +1,6 @@
 # AI Initiatives — Agentic Reporting Platform
 
-**Prototype for Morgan Stanley Technology COO transformation team.**
+**Prototype for Technology COO transformation team.**
 
 Reimagines the monthly AI initiatives reporting process by replacing manual spreadsheet stitching and static slide decks with an agentic pipeline that produces live, queryable, decision-ready briefings.
 
